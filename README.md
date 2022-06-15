@@ -13,6 +13,6 @@
 
 ## More information
 
-For more information, visit our [API docs](https://docs2.prosa.ai/speech/stt/streaming).
+For more information, visit our [API docs](https://docs2.prosa.ai/speech/stt/streaming/getting_started/).
 
 For error code related information, [see here](https://docs2.prosa.ai/speech/stt/streaming/asyncapi/#websocket-close-codes).
